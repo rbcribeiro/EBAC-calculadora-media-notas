@@ -13,8 +13,8 @@ O projeto "Calculadora Média de Notas" foi proposto pela EBAC. É uma calculado
 
 ## Tópicos do Projeto
 
-- Inserção do nome e nota atraves de input e botão 'adicionar'.
-- Tabela com 3 colunas e linhas autoincrementaveis de acordo com os dados inseridos.
+- Inserção do nome e nota através de input e botão 'adicionar'.
+- Tabela com 3 colunas e linhas incrementaveis de acordo com os dados inseridos.
 - Calculo da média das notas.
 - Apresentação do resultado.
 
